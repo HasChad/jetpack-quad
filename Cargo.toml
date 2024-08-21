@@ -5,4 +5,5 @@ edition = "2021"
 authors = ["HasChad"]
 
 [dependencies]
-macroquad = {version = "0.4.8", features = ["audio"]}
+macroquad = "0.4.8"
+kira = "0.9.4"
